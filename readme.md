@@ -1,0 +1,1 @@
+## This Project is Basicallly a Color Generater.
